@@ -1,5 +1,4 @@
 # ALX-MVP-Project
-access project here https://github.com/devilsfave/FINAL_LAP-MVP
 
 MVP Idea: Sales Planet / A sales inventory Management Portal
 ======================================
@@ -37,5 +36,6 @@ A web application that will allow a user to purchase all varieties of products w
         - `id`
         - `timestamps`
     - `data`
+access project here https://github.com/devilsfave/FINAL_LAP-MVP
 
 
