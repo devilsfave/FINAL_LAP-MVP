@@ -40,4 +40,4 @@ A web application that will allow a user to purchase all varieties of products w
         - `timestamps`
     - `data`
 
-
+**CONTACT ME ON LINKEDIN****** [HERE](https://www.linkedin.com/in/herbert-yeboah-1a46ba279)
